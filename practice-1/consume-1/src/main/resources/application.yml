@@ -1,0 +1,6 @@
+server:
+  port: 9001
+user:
+  userServicePath: http://localhost:8001/user/
+
+
