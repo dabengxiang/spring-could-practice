@@ -1,5 +1,5 @@
 server:
-  port: 9002
+  port: 9999
 eureka:
   instance:
     prefer-ip-address: true
@@ -9,18 +9,7 @@ eureka:
     service-url:
       defaultZone: http://user:password123@localhost:8761/eureka
 
-spring:
-  application:
-    name: clilent-1
-  jpa:
-    generate-ddl: false
-    show-sql: true
-    hibernate:
-      ddl-auto: none
-  datasource:
-    platform: h2
-    schema: classpath:schema.sql
-    data: classpath:data.sql
+
 logging:
   level:
     root: INFO
@@ -28,3 +17,6 @@ logging:
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
     com.spring.could.client1: debug
+spring:
+  application:
+    name: feign-client
