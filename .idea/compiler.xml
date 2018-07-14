@@ -9,21 +9,27 @@
         <module name="client-1" />
         <module name="client-2" />
         <module name="client-feign" />
+        <module name="client-feign-customizing" />
         <module name="consume-1" />
         <module name="eureka-service" />
+        <module name="eureka-service-ha" />
         <module name="practice-2" />
         <module name="ribbon" />
+        <module name="ribbon-hystrix" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client-1" target="1.8" />
       <module name="client-2" target="1.8" />
       <module name="client-feign" target="1.8" />
+      <module name="client-feign-customizing" target="1.8" />
       <module name="consume-1" target="1.8" />
       <module name="eureka-service" target="1.8" />
+      <module name="eureka-service-ha" target="1.8" />
       <module name="practice-1" target="1.5" />
       <module name="practice-2" target="1.5" />
       <module name="ribbon" target="1.8" />
+      <module name="ribbon-hystrix" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -46,7 +46,7 @@ public class ClientController {
         return null;
     }
 
-    @GetMapping("/getUser/{id}")
+    @GetMapping(value = "/getUser/{id}")
     public User getUser(@PathVariable("id") long id){
         User one = userMapper.getOne(id);
         System.out.println(one);

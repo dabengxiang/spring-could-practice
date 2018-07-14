@@ -1,0 +1,15 @@
+server:
+  port: 9080
+spring:
+  application:
+    name: hystrix-client
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://user:password123@localhost:8761/eureka
+
+
+
+

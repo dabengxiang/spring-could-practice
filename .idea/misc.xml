@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/practice-2/client-feign/pom.xml" />
         <option value="$PROJECT_DIR$/practice-2/client-1/pom.xml" />
         <option value="$PROJECT_DIR$/practice-2/client-2/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/client-feign-customizing/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/eureka-service-ha/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/ribbon-hystrix/pom.xml" />
       </list>
     </option>
   </component>
