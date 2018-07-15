@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice-2/Hystrix-DashBoard/Hystrix-DashBoard.iml" filepath="$PROJECT_DIR$/practice-2/Hystrix-DashBoard/Hystrix-DashBoard.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/client-1/client-1.iml" filepath="$PROJECT_DIR$/practice-2/client-1/client-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/client-2/client-2.iml" filepath="$PROJECT_DIR$/practice-2/client-2/client-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/client-feign/client-feign.iml" filepath="$PROJECT_DIR$/practice-2/client-feign/client-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/client-feign-customizing/client-feign-customizing.iml" filepath="$PROJECT_DIR$/practice-2/client-feign-customizing/client-feign-customizing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-2/client-feign-with-hystrix/client-feign-with-hystrix.iml" filepath="$PROJECT_DIR$/practice-2/client-feign-with-hystrix/client-feign-with-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-2/client-feign-with-hystrixfactory/client-feign-with-hystrixfactory.iml" filepath="$PROJECT_DIR$/practice-2/client-feign-with-hystrixfactory/client-feign-with-hystrixfactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/consume-1/consume-1.iml" filepath="$PROJECT_DIR$/consume-1/consume-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/practice-2/eureka-service/eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/eureka-service-ha/eureka-service-ha.iml" filepath="$PROJECT_DIR$/practice-2/eureka-service-ha/eureka-service-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-3/gateway-zuul/gateway-zuul.iml" filepath="$PROJECT_DIR$/practice-3/gateway-zuul/gateway-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-1/practice-1.iml" filepath="$PROJECT_DIR$/practice-1/practice-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/practice-2.iml" filepath="$PROJECT_DIR$/practice-2/practice-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-3/practice-3.iml" filepath="$PROJECT_DIR$/practice-3/practice-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/practice-2/ribbon/ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-2/ribbon-hystrix/ribbon-hystrix.iml" filepath="$PROJECT_DIR$/practice-2/ribbon-hystrix/ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-2/ribbon-withoutEureka/ribbon-withoutEureka.iml" filepath="$PROJECT_DIR$/practice-2/ribbon-withoutEureka/ribbon-withoutEureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-could-practice.iml" filepath="$PROJECT_DIR$/.idea/spring-could-practice.iml" />
     </modules>
   </component>

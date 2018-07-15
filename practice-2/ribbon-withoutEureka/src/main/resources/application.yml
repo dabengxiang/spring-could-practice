@@ -1,0 +1,18 @@
+server:
+  port: 9081
+spring:
+  application:
+    name: my-ribbon
+#eureka:
+#  instance:
+#    prefer-ip-address: true
+#  client:
+#    service-url:
+#      defaultZone: http://user:password123@localhost:8761/eureka
+
+CLILENT-1:
+  ribbon:
+    listOfServers: localhost:9002/
+
+
+

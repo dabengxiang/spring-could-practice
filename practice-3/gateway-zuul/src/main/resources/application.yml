@@ -1,0 +1,20 @@
+server:
+  port: 6060
+eureka:
+  instance:
+    prefer-ip-address: true
+#    ip-address: 192.168.1.104
+    instance-id: ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}
+  client:
+    service-url:
+      defaultZone: http://user:password123@localhost:8761/eureka
+    healthcheck:
+      enabled: true
+
+spring:
+  application:
+    name: gateway-zuul
+#是否需要安全保证
+management:
+  security:
+    enabled: false

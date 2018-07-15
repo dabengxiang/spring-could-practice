@@ -16,6 +16,12 @@
         <option value="$PROJECT_DIR$/practice-2/client-feign-customizing/pom.xml" />
         <option value="$PROJECT_DIR$/practice-2/eureka-service-ha/pom.xml" />
         <option value="$PROJECT_DIR$/practice-2/ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/ribbon-withoutEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/client-feign-with-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/client-feign-with-hystrixfactory/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-2/Hystrix-DashBoard/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-3/pom.xml" />
+        <option value="$PROJECT_DIR$/practice-3/gateway-zuul/pom.xml" />
       </list>
     </option>
   </component>
